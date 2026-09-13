@@ -1,4 +1,4 @@
-# Prospi Live Overlay
+# Prospi Live Subtitle
 
 eBaseball PRO SPIRIT 2026의 일본어 해설을 한국어 자막으로 실시간 오버레이하는 프로그램입니다.
 
@@ -8,7 +8,7 @@ eBaseball PRO SPIRIT 2026의 일본어 해설을 한국어 자막으로 실시�
 ## 사용법
 
 1. [Releases](../../releases)에서 최신 zip 파일을 다운로드합니다.
-2. 압축을 풀고 `ProspiLiveOverlay.exe`를 실행합니다 (Python 설치 불필요).
+2. 압축을 풀고 `ProspiLiveSubtitle.exe`를 실행합니다 (Python 설치 불필요).
 3. 시스템 트레이 아이콘을 우클릭해 설정을 열고 자막 위치/크기/색상을 조정할 수 있습니다.
 4. 게임의 "실황 해설 시스템" 설정이 켜져 있어야 합니다.
 
